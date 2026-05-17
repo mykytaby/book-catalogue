@@ -56,7 +56,7 @@ public class BookGUI extends JFrame implements ActionListener {
 
     // ════════════════════════════════════════════════════════════════════════
     public BookGUI() {
-        setTitle("Каталог книг  ·  Виконав: П'ятаченко В.Ю.");
+        setTitle("Каталог книг  ·  Виконав: Биченок М. А.");
         setSize(1050, 680);
         setMinimumSize(new Dimension(860, 540));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
