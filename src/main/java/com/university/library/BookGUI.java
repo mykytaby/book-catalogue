@@ -289,7 +289,7 @@ public class BookGUI extends JFrame implements ActionListener {
         statusLabel.setForeground(TEXT_MUTED);
         statusLabel.setBorder(new EmptyBorder(5, 10, 5, 0));
 
-        JLabel author = new JLabel("П'ятаченко В.Ю.  ");
+        JLabel author = new JLabel("Биченок М.А.  ");
         author.setFont(FONT_STATS);
         author.setForeground(TEXT_MUTED);
 
